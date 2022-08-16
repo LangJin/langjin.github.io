@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t}from"./app.d0a3821e.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue3/axios\u64CD\u4F5C\u63A5\u53E3.md","lastUpdated":1660237076000}'),o={name:"vue3/axios\u64CD\u4F5C\u63A5\u53E3.md"};function r(s,_,c,n,i,p){return t(),a("div")}var f=e(o,[["render",r]]);export{m as __pageData,f as default};
