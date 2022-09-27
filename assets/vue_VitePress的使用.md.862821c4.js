@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.bbf25316.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue/VitePress\u7684\u4F7F\u7528.md","lastUpdated":1660650332000}'),r={name:"vue/VitePress\u7684\u4F7F\u7528.md"};function s(o,c,n,_,i,p){return a(),t("div")}var f=e(r,[["render",s]]);export{m as __pageData,f as default};

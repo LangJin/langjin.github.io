@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as n,a as e}from"./app.bbf25316.js";const u=JSON.parse('{"title":"tomcat","description":"","frontmatter":{"title":"tomcat"},"headers":[],"relativePath":"tools/tomcat.md","lastUpdated":1664267760000}'),t={name:"tools/tomcat.md"},o=e("",8),p=[o];function l(r,c,i,d,A,_){return n(),s("div",null,p)}var v=a(t,[["render",l]]);export{u as __pageData,v as default};
