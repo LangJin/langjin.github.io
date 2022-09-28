@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./app.024b07fe.js";const l=JSON.parse('{"title":"vscode","description":"","frontmatter":{"title":"vscode"},"headers":[],"relativePath":"tools/vscode.md","lastUpdated":1664357035000}'),s={name:"tools/vscode.md"};function a(c,r,d,n,p,_){return o(),t("div")}const m=e(s,[["render",a]]);export{l as __pageData,m as default};

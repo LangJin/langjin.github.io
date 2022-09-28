@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./app.024b07fe.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue/VitePress\u7684\u4F7F\u7528.md","lastUpdated":1660650332000}'),a={name:"vue/VitePress\u7684\u4F7F\u7528.md"};function r(o,c,n,_,i,p){return s(),t("div")}const f=e(a,[["render",r]]);export{m as __pageData,f as default};

@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as l}from"./app.313299d5.js";const C=JSON.parse('{"title":"\u7EC3\u4E601","description":"","frontmatter":{},"headers":[],"relativePath":"python/lianxi.md","lastUpdated":1656666481000}'),p={name:"python/lianxi.md"},o=l("",7),e=[o];function t(c,r,F,D,y,i){return a(),n("div",null,e)}var b=s(p,[["render",t]]);export{C as __pageData,b as default};
