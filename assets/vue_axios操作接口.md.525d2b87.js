@@ -1,0 +1,11 @@
+import{_ as s,c as n,o as a,a as e}from"./app.313299d5.js";const A=JSON.parse('{"title":"\u56DB\u3001\u914D\u7F6E\u8DE8\u57DF","description":"","frontmatter":{},"headers":[{"level":2,"title":"\u56DB\u3001\u914D\u7F6E\u8DE8\u57DF","slug":"\u56DB\u3001\u914D\u7F6E\u8DE8\u57DF"}],"relativePath":"vue/axios\u64CD\u4F5C\u63A5\u53E3.md","lastUpdated":1664356630000}'),p={name:"vue/axios\u64CD\u4F5C\u63A5\u53E3.md"},l=e(`<h2 id="\u56DB\u3001\u914D\u7F6E\u8DE8\u57DF" tabindex="-1">\u56DB\u3001\u914D\u7F6E\u8DE8\u57DF <a class="header-anchor" href="#\u56DB\u3001\u914D\u7F6E\u8DE8\u57DF" aria-hidden="true">#</a></h2><p>\u4FEE\u6539\u914D\u7F6E\u6587\u4EF6\uFF0C\u5728\u914D\u7F6E\u6587\u4EF6\u4E2D\u65B0\u589Eserver\u5BF9\u8C61\uFF0C\u5BF9host\u3001port\u3001proxy\u8FDB\u884C\u914D\u7F6E\u3002</p><div class="language- line-numbers-mode"><button class="copy"></button><span class="lang"></span><pre><code><span class="line"><span style="color:#A6ACCD;">export default defineConfig({</span></span>
+<span class="line"><span style="color:#A6ACCD;">  plugins: [vue()],</span></span>
+<span class="line"><span style="color:#A6ACCD;">  server:{</span></span>
+<span class="line"><span style="color:#A6ACCD;">    port:3100,</span></span>
+<span class="line"><span style="color:#A6ACCD;">    host:&quot;0.0.0.0&quot;,</span></span>
+<span class="line"><span style="color:#A6ACCD;">    proxy:{</span></span>
+<span class="line"><span style="color:#A6ACCD;">      &#39;/login&#39;: &#39;http://localhost:5000&#39;,</span></span>
+<span class="line"><span style="color:#A6ACCD;">    }</span></span>
+<span class="line"><span style="color:#A6ACCD;">  }</span></span>
+<span class="line"><span style="color:#A6ACCD;">})</span></span>
+<span class="line"><span style="color:#A6ACCD;"></span></span></code></pre><div class="line-numbers-wrapper"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br></div></div>`,3),r=[l];function o(t,c,i,_,u,d){return a(),n("div",null,r)}var C=s(p,[["render",o]]);export{A as __pageData,C as default};
