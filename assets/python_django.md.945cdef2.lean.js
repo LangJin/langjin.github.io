@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.0b5dffb1.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/django.md","lastUpdated":1666974618000}'),o={name:"python/django.md"};function n(r,s,c,d,p,_){return a(),e("div")}const f=t(o,[["render",n]]);export{m as __pageData,f as default};

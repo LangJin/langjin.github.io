@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.0b5dffb1.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/flask.md","lastUpdated":1666974618000}'),s={name:"python/flask.md"};function o(r,n,c,p,d,_){return a(),e("div")}const i=t(s,[["render",o]]);export{l as __pageData,i as default};

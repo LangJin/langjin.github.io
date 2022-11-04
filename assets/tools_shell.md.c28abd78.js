@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./app.0b5dffb1.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tools/shell.md","lastUpdated":1666363613000}'),a={name:"tools/shell.md"};function o(r,c,l,n,p,d){return s(),t("div")}const m=e(a,[["render",o]]);export{i as __pageData,m as default};

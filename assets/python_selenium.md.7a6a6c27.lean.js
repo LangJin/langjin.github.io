@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as e}from"./app.0b5dffb1.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/selenium.md","lastUpdated":1666713491000}'),l={name:"python/selenium.md"},p=e("",1),r=[p];function t(o,c,i,u,b,A){return a(),n("div",null,r)}const d=s(l,[["render",t]]);export{m as __pageData,d as default};

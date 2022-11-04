@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as p}from"./app.0b5dffb1.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/faker.md","lastUpdated":1666713491000}'),l={name:"python/faker.md"},o=p("",1),e=[o];function r(c,t,F,D,y,A){return a(),n("div",null,e)}const b=s(l,[["render",r]]);export{i as __pageData,b as default};

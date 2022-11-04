@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.0b5dffb1.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/yaml.md","lastUpdated":1666974618000}'),o={name:"python/yaml.md"};function r(n,s,c,p,d,m){return a(),e("div")}const i=t(o,[["render",r]]);export{l as __pageData,i as default};
